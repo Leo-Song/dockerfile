@@ -1,2 +1,2 @@
-# gitrepo
-test
+# Dockerfile repo
+For automated build
