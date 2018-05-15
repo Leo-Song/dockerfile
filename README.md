@@ -1,2 +1,2 @@
 # Dockerfile repo
-For automated build
+For automated building
